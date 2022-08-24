@@ -1040,9 +1040,6 @@
     react-native-keyboard-aware-scroll-view "^0.9.3"
     uuid "^8.3.2"
 
-"@modules/splash@file:./modules/splash":
-  version "1.0.0"
-
 "@modules/terms-and-conditions@file:./modules/terms-and-conditions":
   version "1.0.1"
   dependencies:
