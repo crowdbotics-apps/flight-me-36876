@@ -1325,6 +1325,9 @@
 "@screens/order-checkout@file:./screens/order-checkout":
   version "1.0.0"
 
+"@screens/payment-subscription@file:./screens/payment-subscription/":
+  version "1.0.0"
+
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 

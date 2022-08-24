@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-articles](modules/articles)
 - [react-native-splash](modules/splash)
 - [payments]()
+- [screen-payment-subscriptions](screens/payment-subscription)
 
 # Getting started: Frontend
 
