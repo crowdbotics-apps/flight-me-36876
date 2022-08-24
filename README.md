@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-app-menu](modules/app-menu)
 - [screen-order-checkout](screens/order-checkout)
 - [screen-login](screens/login)
+- [django-articles](backend/modules)
 
 # Getting started: Frontend
 
