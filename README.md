@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [react-native-social-login](modules/social-login)
 - [react-native-app-menu](modules/app-menu)
+- [screen-order-checkout](screens/order-checkout)
 
 # Getting started: Frontend
 
