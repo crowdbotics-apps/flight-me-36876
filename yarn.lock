@@ -1028,7 +1028,7 @@
 "@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
-"@modules/articles@file:./modules/articles/":
+"@modules/articles@file:./modules/articles":
   version "1.0.0"
 
 "@modules/social-login@file:./modules/social-login":
@@ -1042,6 +1042,9 @@
     react-native-get-random-values "^1.6.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
     uuid "^8.3.2"
+
+"@modules/splash@file:./modules/splash/":
+  version "1.0.0"
 
 "@modules/terms-and-conditions@file:./modules/terms-and-conditions":
   version "1.0.1"
