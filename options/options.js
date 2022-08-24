@@ -6,6 +6,7 @@ const styles = StyleSheet.create({
     borderBottomColor: "black",
     borderBottomWidth: 1
   },
+
   container: { flex: 1, height: 100, padding: 13 },
   text: { color: "black", fontSize: 20 },
   buttonPressed: { backgroundColor: "aquamarine" },
@@ -38,5 +39,11 @@ export const modulesOptions = {
     SignUpNavText: "Sign Up",
     SignInButtonText: "Login",
     SignUpButtonText: "Sign Up"
+  },
+  undefined: {
+    title: "App Menu",
+    copy: "Routes available",
+    styles: styles,
+    localOptions: localOptions
   }
 }
