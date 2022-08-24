@@ -1078,13 +1078,16 @@
 "@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
+"@modules/app-menu@file:./modules/app-menu/":
+  version "1.0.0"
+
 "@modules/articles@file:./modules/articles":
   version "1.0.0"
 
 "@modules/payments@file:./modules/payments":
   version "1.0.1"
 
-"@modules/push-notifications@file:./modules/push-notifications/":
+"@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
 "@modules/social-login@file:./modules/social-login":
