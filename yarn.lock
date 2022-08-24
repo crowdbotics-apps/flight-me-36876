@@ -1027,7 +1027,10 @@
     "@react-navigation/stack" "^5.14.2"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/splash@file:./modules/splash/":
+"@modules/maps@file:./modules/maps/":
+  version "1.0.0"
+
+"@modules/splash@file:./modules/splash":
   version "1.0.0"
 
 "@modules/terms-and-conditions@file:./modules/terms-and-conditions":
@@ -6600,6 +6603,11 @@ react-native-keyboard-aware-scroll-view@^0.9.3:
   dependencies:
     prop-types "^15.6.2"
     react-native-iphone-x-helper "^1.0.3"
+
+react-native-maps@0.27.1:
+  version "0.27.1"
+  resolved "https://registry.yarnpkg.com/react-native-maps/-/react-native-maps-0.27.1.tgz#2f10cd417bb2fd938c9e015b1c9b6d9b1a44b97f"
+  integrity sha512-HygBkZBecTnIVRYrSiLRAvu4OmXOYso/A7c6Cy73HkOh9CgGV8Ap5eBea24tvmFGptjj5Hg8AJ94/YbmWK1Okw==
 
 react-native-radio-buttons-group@^2.2.11:
   version "2.2.11"

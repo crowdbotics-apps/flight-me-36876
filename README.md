@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [react-native-login](modules/login)
 - [react-native-splash](modules/splash)
+- [react-native-maps](modules/maps)
 
 # Getting started: Frontend
 
