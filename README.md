@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-about-the-app](screens/about-the-app)
 - [screen-contact-us](screens/contact-us)
 - [screen-account-settings](screens/account-settings)
+- [react-native-push-notifications](modules/push-notifications)
 
 # Getting started: Frontend
 
