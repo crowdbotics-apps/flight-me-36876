@@ -1322,7 +1322,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/about-the-app@file:./screens/about-the-app/":
+"@screens/about-the-app@file:./screens/about-the-app":
+  version "1.0.0"
+
+"@screens/contact-us@file:./screens/contact-us/":
   version "1.0.0"
 
 "@screens/order-checkout@file:./screens/order-checkout":
