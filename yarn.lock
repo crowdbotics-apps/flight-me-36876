@@ -1028,6 +1028,9 @@
 "@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
+"@modules/articles@file:./modules/articles/":
+  version "1.0.0"
+
 "@modules/social-login@file:./modules/social-login":
   version "1.0.0"
   dependencies:
@@ -1263,7 +1266,7 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/login@file:./screens/login/":
+"@screens/login@file:./screens/login":
   version "1.0.0"
 
 "@screens/order-checkout@file:./screens/order-checkout":
