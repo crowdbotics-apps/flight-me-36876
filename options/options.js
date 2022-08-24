@@ -47,5 +47,7 @@ export const modulesOptions = {
     styles: styles,
     localOptions: localOptions
   },
+
+  undefined: { title: "App Menu", copy: "Routes available!", styles: styles },
   undefined: { title: "App Menu", copy: "Routes available!", styles: styles }
 }
