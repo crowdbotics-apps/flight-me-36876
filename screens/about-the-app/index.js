@@ -4,8 +4,11 @@ import { Text, StyleSheet, View } from "react-native";
 const AboutTheAppScreen = (params) => {
   return (
     <View style={styles.container}>
-      <Text style={styles.headingTxt}>About the App Screen</Text>
+      <Text style={styles.headingTxt}>Matt</Text>
     </View>
+    <View style={styles.container}>
+      <Text style={styles.headingTxt}>Matt</Text>
+    </View>tyle={style.container}>
   );
 };
 
